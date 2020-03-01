@@ -1,0 +1,117 @@
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\bin\Debug\UI3.exe.config
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\bin\Debug\UI3.exe
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\bin\Debug\UI3.pdb
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\obj\Debug\UI3.csprojAssemblyReference.cache
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\obj\Debug\UI3.Form1.resources
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\obj\Debug\UI3.Properties.Resources.resources
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\obj\Debug\UI3.csproj.GenerateResource.cache
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\obj\Debug\UI3.csproj.CoreCompileInputs.cache
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\obj\Debug\UI3.exe
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\obj\Debug\UI3.pdb
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\obj\Debug\UI3.Home.resources
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\bin\Debug\BLL.dll
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\bin\Debug\BLL.pdb
+C:\Users\akhtar.jamil\source\repos\UI3\UI3\obj\Debug\UI3.csproj.CopyComplete
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\UI3.exe.config
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\UI3.exe
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\UI3.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\BLL.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\BLL.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.csprojAssemblyReference.cache
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.Form1.resources
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.Home.resources
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.Properties.Resources.resources
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.csproj.GenerateResource.cache
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.csproj.CoreCompileInputs.cache
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.csproj.CopyComplete
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.exe
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\DAL.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\System.Data.SQLite.dll
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\DAL.pdb
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\DAL.dll.config
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\System.Data.SQLite.xml
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\akhtar.jamil\Desktop\AJ\ISZ\FALL 2018\Courses\Spring 2019\YAM 218E Object Oriented Programming\Lab\UI3\UI3\UI3\obj\Debug\UI3.StudentHome.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\bin\Debug\UI3.exe
+C:\Users\Gorucu\Desktop\UI3\UI3\bin\Debug\UI3.pdb
+C:\Users\Gorucu\Desktop\UI3\UI3\bin\Debug\BLL.dll
+C:\Users\Gorucu\Desktop\UI3\UI3\bin\Debug\DAL.dll
+C:\Users\Gorucu\Desktop\UI3\UI3\bin\Debug\System.Data.SQLite.dll
+C:\Users\Gorucu\Desktop\UI3\UI3\bin\Debug\BLL.pdb
+C:\Users\Gorucu\Desktop\UI3\UI3\bin\Debug\DAL.pdb
+C:\Users\Gorucu\Desktop\UI3\UI3\bin\Debug\System.Data.SQLite.xml
+C:\Users\Gorucu\Desktop\UI3\UI3\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.csprojAssemblyReference.cache
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.Properties.Resources.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.csproj.GenerateResource.cache
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.csproj.CoreCompileInputs.cache
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.csproj.CopyComplete
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.exe
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.pdb
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.DeleteCustomer.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.BakımAsaması.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.CustomerPanel.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.UpdateCustomer.resources
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\x86\sqlite3.dll
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\x64\sqlite3.dll
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\UI3.exe.config
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\UI3.exe
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\UI3.pdb
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\BLL.dll
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\DAL.dll
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\System.Data.SQLite.dll
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\BLL.pdb
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\BLL.dll.config
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\DAL.pdb
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\DAL.dll.config
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\System.Data.SQLite.xml
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.csprojAssemblyReference.cache
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.BakımAsaması.resources
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.CustomerPanel.resources
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.DeleteCustomer.resources
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.Form1.resources
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.Home.resources
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.Properties.Resources.resources
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.UpdateCustomer.resources
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.csproj.GenerateResource.cache
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.csproj.CoreCompileInputs.cache
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.csproj.CopyComplete
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.exe
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.pdb
+C:\Users\nurullah.gunes\Desktop\UI3\UI3\obj\Debug\UI3.addGame.resources
+C:\Users\User\Desktop\UI3\UI3\bin\Debug\UI3.exe
+C:\Users\User\Desktop\UI3\UI3\bin\Debug\UI3.pdb
+C:\Users\User\Desktop\UI3\UI3\bin\Debug\BLL.dll
+C:\Users\User\Desktop\UI3\UI3\bin\Debug\DAL.dll
+C:\Users\User\Desktop\UI3\UI3\bin\Debug\System.Data.SQLite.dll
+C:\Users\User\Desktop\UI3\UI3\bin\Debug\BLL.pdb
+C:\Users\User\Desktop\UI3\UI3\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\UI3\UI3\bin\Debug\System.Data.SQLite.xml
+C:\Users\User\Desktop\UI3\UI3\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.addGame.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.BakımAsaması.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.CustomerPanel.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.DeleteCustomer.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.Properties.Resources.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.UpdateCustomer.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.csproj.CopyComplete
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.exe
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.pdb
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.AddCustomer.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.Login.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.AddAccessory.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.AddConsole.resources
+C:\Users\User\Desktop\UI3\UI3\obj\Debug\UI3.DeleteProduct.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.AddAccessory.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.AddConsole.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.AddGame.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.DeleteProduct.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.Login.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.AddCustomer.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.UpdateProduct.resources
+C:\Users\Gorucu\Desktop\UI3\UI3\obj\Debug\UI3.CartPanel.resources
